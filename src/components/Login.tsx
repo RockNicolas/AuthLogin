@@ -31,7 +31,7 @@ export const Login = () => {
             onChange={(e) => setPasswor(e.target.value)} 
             />
             {error && <div>{error}</div>}
-            <button type="submit"></button>
+            <button type="submit">Button</button>
         </form>
     )
 }
