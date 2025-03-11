@@ -23,11 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Variáveis de ambiente e segredos
-.env
-
-# Arquivos específicos do Sequelize
-.sequelize
-
-# Outros arquivos que não devem ser rastreados pelo Git
-*.local
