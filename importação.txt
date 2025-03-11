@@ -1,0 +1,5 @@
+Vite
+npm create vite@latest
+
+mysql2
+npm install mysql2 sequelize
